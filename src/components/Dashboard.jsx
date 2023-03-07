@@ -7,10 +7,10 @@ function Dashboard() {
         <div class="navbar-title w-100">
             <div class="row py-5 d-flex align-items-center justify-content-center">
                 <div class="col">
-                    <h3 class="month-bold">
+                    <h3 class="month-bold fw-bold">
                         March 2023
                     </h3>
-                    <div class="">
+                    <div class="sub-text">
                         Tuesday, March 7, 2023
                     </div>
                 </div>

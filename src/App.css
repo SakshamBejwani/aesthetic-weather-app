@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 *{
+  font-family: 'Noto Sans', sans-serif;
   margin: 0;
 }
 
@@ -31,4 +33,17 @@
   background-color: transparent;
   border: 0px solid transparent;
   width: 100%;
+}
+.sub-text{
+  color: #9b9a9a;
+}
+.custom-stats{
+  width: 25vw;
+  background-image: linear-gradient(rgb(64,85,110), rgb(16,45,92));;
+}
+
+.astronomy-container{
+  background-color: rgba(233, 232, 232, 0.2);
+  width: 100%;
+  border: 3px solid rgb(64, 97, 143);
 }

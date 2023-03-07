@@ -11,7 +11,7 @@ root.render(
   </React.StrictMode>
 );
 
-export const serverApiUrl="https://anime-db.p.rapidapi.com/anime" 
+export const serverApiUrl="https://weatherapi-com.p.rapidapi.com/" 
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
